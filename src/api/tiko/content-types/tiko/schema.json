@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tikos",
+  "info": {
+    "singularName": "tiko",
+    "pluralName": "tikos",
+    "displayName": "tiko"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "str": {
+      "type": "string"
+    }
+  }
+}
