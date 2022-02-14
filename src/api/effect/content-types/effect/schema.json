@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "effects",
+  "info": {
+    "singularName": "effect",
+    "pluralName": "effects",
+    "displayName": "effect"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "num": {
+      "type": "biginteger"
+    },
+    "str": {
+      "type": "richtext"
+    }
+  }
+}
