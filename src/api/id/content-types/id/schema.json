@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "uuid",
+  "info": {
+    "singularName": "id",
+    "pluralName": "uuid",
+    "displayName": "posts",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "barev": {
+      "type": "string"
+    },
+    "sure": {
+      "type": "boolean"
+    },
+    "numbers": {
+      "type": "biginteger"
+    }
+  }
+}
